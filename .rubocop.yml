@@ -1,0 +1,21 @@
+Naming/MemoizedInstanceVariableName:
+  EnforcedStyleForLeadingUnderscores: optional
+Style/Documentation:
+  Enabled: false
+Lint/AmbiguousOperator:
+  Enabled: false
+Metrics/ParameterLists:
+  Max: 8
+  MaxOptionalParameters: 8
+Naming/MethodParameterName:
+  MinNameLength: 2
+Metrics/CyclomaticComplexity:
+  Max: 10
+Metrics/MethodLength:
+  Max: 30
+Metrics/PerceivedComplexity:
+  Max: 20
+Style/Alias:
+  EnforcedStyle: prefer_alias_method
+Style/IfUnlessModifier:
+  Enabled: false
